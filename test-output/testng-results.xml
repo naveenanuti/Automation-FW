@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="56818" started-at="2021-01-12T10:30:34 IST" finished-at="2021-01-12T10:31:31 IST">
+    <groups>
+    </groups>
+    <test name="C:/Users/USER/IdeaProjects/Automation-FW" duration-ms="56818" started-at="2021-01-12T10:30:34 IST" finished-at="2021-01-12T10:31:31 IST">
+      <class name="Login.LoginTest">
+        <test-method status="PASS" signature="starTest()[pri:0, instance:Login.LoginTest@15761df8]" name="starTest" is-config="true" duration-ms="500" started-at="2021-01-12T10:30:34 IST" finished-at="2021-01-12T10:30:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- starTest -->
+        <test-method status="PASS" signature="forgotpassword()[pri:0, instance:Login.LoginTest@15761df8]" name="forgotpassword" duration-ms="33575" started-at="2021-01-12T10:30:35 IST" finished-at="2021-01-12T10:31:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpassword -->
+        <test-method status="PASS" signature="verifyLoginTest()[pri:0, instance:Login.LoginTest@15761df8]" name="verifyLoginTest" duration-ms="21275" started-at="2021-01-12T10:31:08 IST" finished-at="2021-01-12T10:31:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:Login.LoginTest@15761df8]" name="endTest" is-config="true" duration-ms="1172" started-at="2021-01-12T10:31:30 IST" finished-at="2021-01-12T10:31:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- Login.LoginTest -->
+    </test> <!-- C:/Users/USER/IdeaProjects/Automation-FW -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
